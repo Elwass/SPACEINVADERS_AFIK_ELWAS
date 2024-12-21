@@ -1,0 +1,10 @@
+<classpath>
+    <!-- Sumber kode -->
+    <classpathentry kind="src" path="src"/>
+
+    <!-- Library eksternal -->
+    <classpathentry kind="lib" path="lib/mysql-connector-java-X.X.X.jar"/>
+
+    <!-- Folder output -->
+    <classpathentry kind="output" path="bin"/>
+</classpath>
